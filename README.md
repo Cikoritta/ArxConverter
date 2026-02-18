@@ -12,7 +12,7 @@ A command-line tool for reading, parsing, and exporting 3D models from the `.ftl
   - **JSON**
   - **XML**
   - **OBJ + MTL**
-  - **glTF**
+  - **glTF** (beta)
 
 ---
 
