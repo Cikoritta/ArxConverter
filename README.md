@@ -72,3 +72,7 @@ FTL-файл содержит:
 Более подробное описание всего: **ArxHeaders.ixx**
 
 ---
+
+<img width="591" height="591" alt="изображение" src="https://github.com/user-attachments/assets/9c37d048-6e48-455b-b940-86b4c9bcb630" />
+
+<img width="519" height="367" alt="изображение" src="https://github.com/user-attachments/assets/97d3fe87-2b1c-418a-a475-09575db14c3f" />
